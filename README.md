@@ -2,6 +2,7 @@
 ## *Learn-Java-OOP*
 ### โปรแกรมจัดการสต๊อกสินค้า 
 ### Database : MySQL
+### Connect Use : Connector/J
 
 
 ### <ins> หน้าเมนู </ins> 

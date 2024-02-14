@@ -1,2 +1,3 @@
 # Java-Project
-Learn-Java-OOP
+## Learn-Java-OOP
+### โปรแกรมจัดการสต๊อกสินค้า
